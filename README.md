@@ -2,9 +2,9 @@ Web Api using ASP.NET Core
 
 Sql Queries
 
-CREATE DATABASE ProductDB;
+CREATE DATABASE eamll_webapi;
 
-USE ProductDB;
+USE eamll_webapi;
 
 CREATE TABLE Producto (
     Id INT PRIMARY KEY IDENTITY,
